@@ -1,17 +1,24 @@
 body {
-  background-color: #f0dd92;
+  margin: 0;
 }
 
-h1 {
-  color: #66BFBF;
+footer {
+  background-color: #589486;
 }
-/*
-h3 {
-  color: blue;
+
+header{
+  background-color: #907a53;
+  color: #f7f0c7;
+  text-align: center;
+  padding: 30px 0;
 }
-*/
+
 hr {
-  border-style: none;
-  background-color: white;
-  height: 3px;
+  border-style: dotted;
+  border-color: #b2c6ca;
+  border-width: 3px;
+  border-bottom: none;
+  width: 5%;
 }
+
+/*----------------------------------------------------------------------------*/
