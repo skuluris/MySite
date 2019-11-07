@@ -4,6 +4,9 @@ body {
 
 footer {
   background-color: #589486;
+  padding: 30px 0;
+  font-size: 0.6rem;
+  text-align: center;
 }
 
 header{
@@ -21,4 +24,45 @@ hr {
   width: 5%;
 }
 
+main {
+  text-align: center;
+  background-color: #faf6dd;
+  color: #589486;
+  padding: 50px 0;
+}
+
+p {
+  font-size: 0.75rem;
+}
 /*----------------------------------------------------------------------------*/
+
+
+.intro {
+  font-family: 'Marck Script', cursive;
+}
+
+.sections-text {
+  display: inline-block;
+  margin: 0 auto;
+  width: 50%
+}
+
+.flinks:active {
+  color: #f7f0c7;
+  text-decoration: none;
+}
+
+.flinks:hover {
+  color: #abc9c2;
+  text-decoration: none;
+}
+
+.flinks {
+  color: #7e6163;
+  text-decoration: none;
+}
+
+.bytag {
+  color: #f7f0c7;
+  font-size: 0.5rem;
+}
